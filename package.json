@@ -1,0 +1,7 @@
+{
+  "name": "ts-compiler-api-examples",
+  "private": true,
+  "dependencies": {
+    "typescript": "^2.7.1"
+  }
+}
