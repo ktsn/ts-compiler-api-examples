@@ -10,7 +10,7 @@ You can run the example source codes by running `npm run start-X` (`X` is a numb
 $ npm run start-1 # run `src/1-read-ast.ts`
 ```
 
-## Referencesn
+## References
 
 - [Using the Compiler API · Microsoft/TypeScript Wiki](https://github.com/Microsoft/TypeScript/wiki/Using-the-Compiler-API)
 - [AST explorer](https://astexplorer.net/)
