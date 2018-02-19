@@ -1,7 +1,16 @@
 {
   "name": "ts-compiler-api-examples",
   "private": true,
+  "scripts": {
+    "start-1": "ts-node src/1-read-ast",
+    "start-2": "ts-node src/2-print-code",
+    "start-3": "ts-node src/3-type-checking"
+  },
   "dependencies": {
     "typescript": "^2.7.1"
+  },
+  "devDependencies": {
+    "@types/node": "^9.4.6",
+    "ts-node": "^4.1.0"
   }
 }
