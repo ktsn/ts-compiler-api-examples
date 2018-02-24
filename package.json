@@ -4,7 +4,8 @@
   "scripts": {
     "start-1": "ts-node src/1-read-ast",
     "start-2": "ts-node src/2-print-code",
-    "start-3": "ts-node src/3-type-checking"
+    "start-3": "ts-node src/3-type-checking",
+    "start-4": "ts-node src/4-read-type-info"
   },
   "dependencies": {
     "typescript": "^2.7.1"
